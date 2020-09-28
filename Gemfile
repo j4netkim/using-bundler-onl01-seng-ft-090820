@@ -4,7 +4,7 @@ gem "hashie"
 gem "sinatra"
 gem "octokit"
 gem "pry"
-gem "AwesomePrint"
+gem "awesome_print"
 
 group :development do
   gem "pry"
